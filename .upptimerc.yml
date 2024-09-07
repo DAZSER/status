@@ -9,6 +9,8 @@ sites:
     url: https://beta.dazser.net
   - name: DAZSER Payment Portal
     url: https://pay.dazser.com
+  - name: DAZSER Survey/Inspection Site
+    url: https://survey.dazser.net/tampa
 #  - name: Tampa
 #    url: https://news.ycombinator.com
 #  - name: Orlando
