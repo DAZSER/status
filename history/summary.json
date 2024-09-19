@@ -4,19 +4,19 @@
     "url": "https://www.dazser.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.dazser.net.ico",
     "slug": "dazser-web-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1181,
-    "timeDay": 1495,
-    "timeWeek": 1174,
-    "timeMonth": 1181,
-    "timeYear": 1181,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1146,
+    "timeDay": 1041,
+    "timeWeek": 1100,
+    "timeMonth": 1146,
+    "timeYear": 1146,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 22
     }
   },
   {
