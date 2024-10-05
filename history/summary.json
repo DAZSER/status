@@ -4,7 +4,7 @@
     "url": "https://www.dazser.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.dazser.net.ico",
     "slug": "dazser-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
     "uptimeDay": "98.69%",
     "uptimeWeek": "96.03%",
@@ -16,6 +16,7 @@
     "timeMonth": 1165,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2024-10-05": 0,
       "2024-10-04": 19,
       "2024-10-03": 73,
       "2024-10-02": 6,
