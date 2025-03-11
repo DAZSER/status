@@ -48,19 +48,19 @@
     "url": "https://beta.dazser.net",
     "icon": "https://icons.duckduckgo.com/ip3/beta.dazser.net.ico",
     "slug": "dazser-beta-web-app-v3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1284,
-    "timeDay": 2131,
-    "timeWeek": 1694,
-    "timeMonth": 1768,
-    "timeYear": 1284,
+    "time": 1283,
+    "timeDay": 1613,
+    "timeWeek": 1619,
+    "timeMonth": 1744,
+    "timeYear": 1283,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 8
     }
   },
   {
