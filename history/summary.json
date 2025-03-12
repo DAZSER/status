@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 1120,
-    "timeDay": 1566,
-    "timeWeek": 1202,
-    "timeMonth": 1308,
+    "timeDay": 1003,
+    "timeWeek": 1123,
+    "timeMonth": 1304,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2024-11-20": 232,
@@ -50,18 +50,16 @@
     "slug": "dazser-beta-web-app-v3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1283,
-    "timeDay": 1613,
-    "timeWeek": 1619,
-    "timeMonth": 1744,
-    "timeYear": 1283,
-    "dailyMinutesDown": {
-      "2025-03-11": 8
-    }
+    "time": 1278,
+    "timeDay": 720,
+    "timeWeek": 1482,
+    "timeMonth": 1715,
+    "timeYear": 1278,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DAZSER Payment Portal",
@@ -74,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1093,
-    "timeDay": 1638,
-    "timeWeek": 1107,
-    "timeMonth": 1181,
-    "timeYear": 1093,
+    "time": 1089,
+    "timeDay": 189,
+    "timeWeek": 906,
+    "timeMonth": 1136,
+    "timeYear": 1089,
     "dailyMinutesDown": {}
   },
   {
@@ -92,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1478,
-    "timeDay": 2429,
-    "timeWeek": 1915,
-    "timeMonth": 1489,
-    "timeYear": 1478,
+    "time": 1472,
+    "timeDay": 302,
+    "timeWeek": 1690,
+    "timeMonth": 1493,
+    "timeYear": 1472,
     "dailyMinutesDown": {}
   }
 ]
