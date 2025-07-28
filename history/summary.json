@@ -48,9 +48,9 @@
     "url": "https://beta.dazser.net",
     "icon": "https://icons.duckduckgo.com/ip3/beta.dazser.net.ico",
     "slug": "dazser-beta-web-app-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -60,6 +60,7 @@
     "timeMonth": 336,
     "timeYear": 998,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-07-23": 20
     }
   },
