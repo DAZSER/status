@@ -90,17 +90,19 @@
     "url": "https://survey.dazser.net/tampa",
     "icon": "https://icons.duckduckgo.com/ip3/survey.dazser.net.ico",
     "slug": "dazser-survey-inspection-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1422,
-    "timeDay": 1963,
-    "timeWeek": 1866,
-    "timeMonth": 1525,
-    "timeYear": 1411,
-    "dailyMinutesDown": {}
+    "time": 1419,
+    "timeDay": 1101,
+    "timeWeek": 1662,
+    "timeMonth": 1483,
+    "timeYear": 1407,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   }
 ]
