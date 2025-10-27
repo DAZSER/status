@@ -11,10 +11,10 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.61%",
     "time": 1432,
-    "timeDay": 1418,
-    "timeWeek": 1505,
-    "timeMonth": 2829,
-    "timeYear": 1503,
+    "timeDay": 1186,
+    "timeWeek": 1461,
+    "timeMonth": 2822,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2025-10-16": 114,
       "2025-09-25": 60,
@@ -31,8 +31,7 @@
       "2024-11-01": 57,
       "2024-10-31": 235,
       "2024-10-30": 18,
-      "2024-10-28": 315,
-      "2024-10-27": 17
+      "2024-10-28": 315
     }
   },
   {
@@ -42,17 +41,16 @@
     "slug": "dazser-beta-web-app-v3",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.93%",
-    "time": 1007,
-    "timeDay": 480,
-    "timeWeek": 4859,
-    "timeMonth": 1729,
-    "timeYear": 992,
+    "time": 1006,
+    "timeDay": 548,
+    "timeWeek": 4869,
+    "timeMonth": 1730,
+    "timeYear": 990,
     "dailyMinutesDown": {
-      "2025-10-26": 15,
       "2025-10-20": 91,
       "2025-09-16": 16,
       "2025-09-03": 53,
@@ -78,11 +76,11 @@
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
-    "time": 1038,
-    "timeDay": 1431,
-    "timeWeek": 1177,
-    "timeMonth": 1214,
-    "timeYear": 1022,
+    "time": 1037,
+    "timeDay": 258,
+    "timeWeek": 1186,
+    "timeMonth": 1176,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-10-20": 104
     }
@@ -98,11 +96,11 @@
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
-    "time": 1416,
-    "timeDay": 1631,
-    "timeWeek": 1191,
-    "timeMonth": 1417,
-    "timeYear": 1409,
+    "time": 1413,
+    "timeDay": 275,
+    "timeWeek": 1003,
+    "timeMonth": 1375,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2025-10-20": 114
     }
