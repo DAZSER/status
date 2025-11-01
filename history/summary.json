@@ -68,9 +68,9 @@
     "slug": "dazser-payment-portal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 1039,
     "timeDay": 1325,
@@ -78,7 +78,6 @@
     "timeMonth": 1195,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2025-11-01": 7,
       "2025-10-20": 104
     }
   },
@@ -87,9 +86,9 @@
     "url": "https://survey.dazser.net/tampa",
     "icon": "https://icons.duckduckgo.com/ip3/survey.dazser.net.ico",
     "slug": "dazser-survey-inspection-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
@@ -99,6 +98,7 @@
     "timeMonth": 1438,
     "timeYear": 1408,
     "dailyMinutesDown": {
+      "2025-11-01": 0,
       "2025-10-20": 114
     }
   }
