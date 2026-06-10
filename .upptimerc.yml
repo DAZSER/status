@@ -3,7 +3,7 @@ owner: dazser # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 
 sites:
-  - name: DAZSER Web App
+  - name: DAZSER Web App (v2)
     url: https://www.dazser.net
   - name: DAZSER Beta Web App (v3)
     url: https://beta.dazser.net
@@ -11,6 +11,8 @@ sites:
     url: https://pay.dazser.com
   - name: DAZSER Survey/Inspection Site
     url: https://survey.dazser.net/tampa
+  - name: Moodle
+    url: https://moodle.dazser.net
 #  - name: Tampa
 #    url: https://news.ycombinator.com
 #  - name: Orlando
