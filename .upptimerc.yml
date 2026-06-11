@@ -13,8 +13,8 @@ sites:
     url: https://survey.dazser.net/tampa
   - name: Moodle
     url: https://moodle.dazser.net
-#  - name: Tampa
-#    url: https://news.ycombinator.com
+  - name: Tampa
+    url: http://tampa.dazser.com:8081
 #  - name: Orlando
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: Birmingham
