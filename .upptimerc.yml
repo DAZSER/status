@@ -15,13 +15,12 @@ sites:
     url: https://moodle.dazser.net
   - name: Tampa
     url: http://tampa.dazser.com:8081
+  - name: Birmingham
+    url: http://birmingham.dazser.com:8080
+  - name: Baltimore
+    url: http://baltimore.dazser.com:8080
 #  - name: Orlando
 #    url: https://thissitedoesnotexist.koj.co
-#  - name: Birmingham
-#    url: forwardemail.net
-#    port: 80
-#    check: "tcp-ping"
-#    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
