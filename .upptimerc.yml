@@ -5,20 +5,28 @@ repo: status # The name of this repository
 sites:
   - name: DAZSER Web App (v2)
     url: https://www.dazser.net
+    slug: v2
   - name: DAZSER Beta Web App (v3)
     url: https://beta.dazser.net
+    slug: v3
   - name: DAZSER Payment Portal
     url: https://pay.dazser.com
+    slug: pay
   - name: DAZSER Survey/Inspection Site
     url: https://survey.dazser.net/tampa
+    slug: survey
   - name: Moodle
     url: https://moodle.dazser.net
+    slug: moodle
   - name: Tampa
     url: http://tampa.dazser.com:8081
+    slug: tampa
   - name: Birmingham
     url: http://birmingham.dazser.com:8080
+    slug: birmingham
   - name: Baltimore
     url: http://baltimore.dazser.com:8080
+    slug: baltimore
 #  - name: Orlando
 #    url: https://thissitedoesnotexist.koj.co
 
