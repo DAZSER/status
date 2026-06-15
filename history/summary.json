@@ -94,18 +94,20 @@
     "url": "http://tampa.dazser.com:8081",
     "icon": "https://icons.duckduckgo.com/ip3/tampa.dazser.com.ico",
     "slug": "tampa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 193,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-15": 1
+    }
   },
   {
     "name": "Birmingham",
@@ -113,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/birmingham.dazser.com.ico",
     "slug": "birmingham",
     "status": "down",
-    "uptime": "42.79%",
+    "uptime": "41.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.79%",
-    "uptimeMonth": "42.79%",
-    "uptimeYear": "42.79%",
+    "uptimeWeek": "41.43%",
+    "uptimeMonth": "41.43%",
+    "uptimeYear": "41.43%",
     "time": 176,
     "timeDay": 0,
     "timeWeek": 176,
@@ -126,7 +128,7 @@
     "dailyMinutesDown": {
       "2026-06-11": 23,
       "2026-06-12": 95,
-      "2026-06-15": 286,
+      "2026-06-15": 454,
       "2026-06-14": 1440,
       "2026-06-13": 1077
     }
@@ -137,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/baltimore.dazser.com.ico",
     "slug": "baltimore",
     "status": "down",
-    "uptime": "46.65%",
+    "uptime": "45.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.65%",
-    "uptimeMonth": "46.65%",
-    "uptimeYear": "46.65%",
+    "uptimeWeek": "45.16%",
+    "uptimeMonth": "45.16%",
+    "uptimeYear": "45.16%",
     "time": 162,
     "timeDay": 0,
     "timeWeek": 162,
@@ -150,7 +152,7 @@
     "dailyMinutesDown": {
       "2026-06-11": 22,
       "2026-06-12": 221,
-      "2026-06-15": 286,
+      "2026-06-15": 454,
       "2026-06-14": 1440,
       "2026-06-13": 752
     }
