@@ -76,21 +76,21 @@
     "url": "https://moodle.dazser.net",
     "icon": "https://icons.duckduckgo.com/ip3/moodle.dazser.net.ico",
     "slug": "moodle",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.85%",
-    "time": 485,
-    "timeDay": 459,
-    "timeWeek": 547,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.80%",
+    "time": 492,
+    "timeDay": 764,
+    "timeWeek": 605,
+    "timeMonth": 501,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2026-07-28": 135,
       "2026-08-21": 27,
-      "2026-08-24": 0
+      "2026-08-24": 52
     }
   },
   {
